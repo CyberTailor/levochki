@@ -1,0 +1,3 @@
+[submodule "lowdown.cgi"]
+	path = lowdown.cgi
+	url = git://sysrq.cyou:/lowdown.cgi
