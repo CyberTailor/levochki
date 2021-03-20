@@ -18,6 +18,7 @@ levochki
 
 Всё остальное распространяется на условиях [CC BY-SA 4.0][cc], если не указано
 иное.
+
 [cc]: http://creativecommons.org/licenses/by-sa/4.0/
 
 Участие в разработке
