@@ -4,10 +4,10 @@ copyright: 1975, Nicole Cox and Silvia Federici
 css: /styles.css
 title: Контр-планирование из кухни — Николь Кокс и Сильвия Федеричи
 
-[Исходный код страницы][md-source] в формате Markdown
-
 [md-source]:
-https://git.sysrq.cyou/levochki/tree/article/counterplanning-from-the-kitchen.md
+https://git.sysrq.in/levochki/tree/article/counterplanning-from-the-kitchen.md
+
+[Исходный код страницы][md-source] в формате Markdown
 
 Николь Кокс и Сильвия Федеричи. Контр-планирование из кухни
 ===========================================================

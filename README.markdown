@@ -6,7 +6,7 @@ levochki
 ---------
 1. Установите и настройте nginx и fcgiwrap
 2. Клонируйте этот репозиторий:  
-   `git clone --recursive git://sysrq.cyou:/levochki /var/www/levochki`
+   `git clone --recursive git://sysrq.in:/levochki /var/www/levochki`
 3. С помощью директивы `include` или иным способом включите
    [levochki.nginx.conf][1] в файл конфигурации nginx, внеся необходимые
    изменения
