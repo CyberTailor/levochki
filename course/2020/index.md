@@ -76,7 +76,7 @@ title: Программа курса левочек за 2020 год
    заключаются его проблематичность?
 
 2. _Валери Брайсон:_ [**Политическая теория феминизма**](
-/book/Feminist Political Theory.pdf). Страницы 115–151.
+/book/Feminist%20Political%20Theory.pdf). Страницы 115–151.
 
    **Описание:** пятая, шестая и седьмая главы книги Валери Брайсон полезны тем,
    что позволяют историзировать начало и развитие социалистического феминизма.
@@ -92,7 +92,7 @@ title: Программа курса левочек за 2020 год
    Бебель / Клара Цеткин / Александра Коллонтай
 
 3. _Lise Vogel:_ [*Marxism and the Oppression of Women*](
-/book/Marxism and the Oppression of Women.pdf). Страницы 13–43.
+/book/Marxism%20and%20the%20Oppression%20of%20Women.pdf). Страницы 13–43.
 
    **Описание:** вторая и третья главы этой книги помогут нам лучше понять
    процесс развития теории социалистического феминизма, предложат к рассмотрению
@@ -150,7 +150,7 @@ https://newsocialist.org/socialist-feminism-in-the-era-of-trump-and-weinstein).
 ### Список литературы
 
 1. _Хайди Хартманн:_ [**Несчастливый брак марксизма с феминизмом**](
-/book/The Unhappy Marriage of Marxism and Feminism.pdf). Страницы 4–59.
+/book/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf). Страницы 4–59.
 
    **Описание:** эссе Хайди Хартманн, вызвавшее широкий отклик в феминистском
    сообществе, задаётся вопросом о связи между капитализмом и патриархатом, и о
@@ -175,7 +175,7 @@ https://newsocialist.org/socialist-feminism-in-the-era-of-trump-and-weinstein).
 
 2. _Iris Young:_
 [*Beyond the Unhappy Marriage: A Critique of the Dual Systems Theory*](
-/book/Beyond the Unhappy Marriage.pdf) // Sargent L. (ed.) Women and
+/book/Beyond%20the%20Unhappy%20Marriage.pdf) // Sargent L. (ed.) Women and
 Revolution. Страницы 43–70.
 
    **Описание:** в этом эссе Айрис Янг критикует предложенную Хайди Хартманн
@@ -198,7 +198,7 @@ Revolution. Страницы 43–70.
 
 3. _Чинция Арруцца:_ Квир-союз между марксизмом и феминизмом? // Хартманн Х.
 [**Несчастливый брак марксизма с феминизмом**](
-/book/The Unhappy Marriage of Marxism and Feminism.pdf). Страницы 60–74.
+/book/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf). Страницы 60–74.
 
    **Описание:** последняя глава книги Чинции Арруццы о связях марксизма и
    феминизма посвящена анализу теории двойных систем Хартманн, последовавшей
@@ -213,7 +213,7 @@ Revolution. Страницы 43–70.
    Джоанна Бреннер / Мария Рамас
 
 4. _Сильвия Федеричи:_ [**Калибан и ведьма. Накопление труда и падение женщин**](
-/book/Caliban and the Witch.pdf). Страницы 74–141.
+/book/Caliban%20and%20the%20Witch.pdf). Страницы 74–141.
 
    **Описание:** в этой главе Федеричи показывает, что первоначальное накопление
    капитала было связано с порабощением женщин, великой европейской охотой на
@@ -242,7 +242,7 @@ https://genderlibrary.files.wordpress.com/2015/02/shulamith-firestone.pdf).
    угнетение.
 
 2. _Juliet Mitchell:_ [*Psychoanalysis and Feminism*](
-/book/Psychoanalysis and Feminism.pdf). Conclusion: 6. The Cultural Revolution.
+/book/Psychoanalysis%20and%20Feminism.pdf). Conclusion: 6. The Cultural Revolution.
 Страницы 407–416.
 
    **Описание**: в заключительной главе своей работы «Психоанализ и феминизм»
@@ -264,7 +264,7 @@ https://genderlibrary.files.wordpress.com/2015/02/shulamith-firestone.pdf).
 
 ### Список литературы
 
-1. _Джудит Батлер:_ [**Гендерное беспокойство**](/book/Gender Trouble.pdf).
+1. _Джудит Батлер:_ [**Гендерное беспокойство**](/book/Gender%20Trouble.pdf).
 1.1. «Женщины» как центральная тема феминизма; 1.4. Формирование теорий
 бинарности, унитарности и запредельного им. Страницы 297–305; 314–318.
 
@@ -287,7 +287,7 @@ https://genderlibrary.files.wordpress.com/2015/02/shulamith-firestone.pdf).
 
 2. _Нэнси Фрейзер:_
 [**От перераспределения к признанию? Дилеммы справедливости в «пост-социалистическую» эпоху**](
-/book/Redistribution or recognition.pdf).
+/book/Redistribution%20or%20recognition.pdf).
 
    **Описание:** в этом эссе Нэнси Фрейзер обращает внимание читательниц на
    дилемму перераспределения-признания, отмечая, что сегодня борьба за признание
@@ -354,7 +354,7 @@ https://culturalstudies.ucsc.edu/inscriptions/volume-5/elizabeth-grosz/).
    концепты как достойные или недостойные, выступая в защиту прагматического
    использования таких проблематичных концептов, как эссенциализм.
 
-2. _Джудит Батлер:_ [**Чисто культурное**](/book/Merely Cultural.pdf).
+2. _Джудит Батлер:_ [**Чисто культурное**](/book/Merely%20Cultural.pdf).
 
    **Описание:** Батлер вступает в полемику с левой критикой «политики
    идентичности», обвиняющей новые движения (феминистские, антирасистские,
@@ -367,7 +367,7 @@ https://culturalstudies.ucsc.edu/inscriptions/volume-5/elizabeth-grosz/).
    как гомофобия в самое сердце политической экономии.
 
 3. _Шанталь Муфф:_ [**Феминизм, гражданство и радикальная демократическая политика**](
-/book/Feminism, citizenship, and radical democratic politics.pdf).
+/book/Feminism%2C%20citizenship%2C%20and%20radical%20democratic%20politics.pdf).
 
    **Описание:** Муфф анализирует и отвергает различные феминистские теории,
    пытающиеся переосмыслить политическое пространство таким образом, чтобы
@@ -377,7 +377,7 @@ https://culturalstudies.ucsc.edu/inscriptions/volume-5/elizabeth-grosz/).
    антагонизмах, а объединение ради общих целей не требует опоры на заранее
    данную идентичность (такую как «женщины»).
 
-4. _Asad Haider:_ [*Mistaken Identity*](/book/Mistaken Identity.pdf).
+4. _Asad Haider:_ [*Mistaken Identity*](/book/Mistaken%20Identity.pdf).
 6\. Universality. Страницы 90–99.
 
    **Описание:**  Асад Хайдер внимательно рассматривает свою идентичность как
@@ -422,7 +422,7 @@ https://levoradikal.ru/archives/14298)
 
 2. _Nancy Fraser:_
 [*Crisis of Care? On the Social-Reproductive Contradictions of Contemporary Capitalism*](
-/book/Social Reproduction Theory.pdf) // Tithi Bhattacharya (ed.) Social
+/book/Social%20Reproduction%20Theory.pdf) // Tithi Bhattacharya (ed.) Social
 Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 21–37.
 
    **Описание:** в этом эссе Нэнси Фрейзер обращает внимание читательниц на то,
@@ -440,7 +440,7 @@ Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 2
    исторического контекста?
 
 3. _Николь Кокс, Сильвия Федеричи:_ [**Контр-планирование из кухни**](
-/articles/counterplanning-from-the-kitchen.md).
+/article/counterplanning-from-the-kitchen.md).
 
    **Описание:** в этой брошюре Федеричи и Кокс ставят под сомнение заработную
    плату как критерий производительности труда. Они критикуют левое движение за
@@ -459,7 +459,7 @@ Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 2
 
 4. _Terri Nilliasca:_
 [*Some Women's Work: Domestic Work, Class, Race, Heteronormativity, and the Limits of Legal Reform*](
-/book/Some Womens Work.pdf). Страницы 377–399, 405–410.
+/book/Some%20Womens%20Work.pdf). Страницы 377–399, 405–410.
 
    **Описание:** статья посвящена оплачиваемому домашнему труду в США. Ниллиаска
    показывает, как в этой сфере, где преимущественно заняты небелые женщины и
@@ -481,7 +481,7 @@ Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 2
 ### Дополнительно
 
 1. _Diemut Elisabet Bubeck:_ [*The Domestic Labour Debate*](
-/book/The Domestic Labour Debate.pdf).
+/book/The%20Domestic%20Labour%20Debate.pdf).
 
    **Описание:** в этой главе рассматривается дискуссия о домашнем труде,
    начавшаяся в 1960-х в качестве попытки марксистских феминисток предоставить
@@ -492,7 +492,7 @@ Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 2
    теоретической системы, рассчитанной на условных усредненных мужчин.
 
 2. _Camille Barbagallo:_
-[*Leaving Home: Slavery and the Politics of Reproduction*](/book/Leaving Home.pdf).
+[*Leaving Home: Slavery and the Politics of Reproduction*](/book/Leaving%20Home.pdf).
 
    **Описание:** в этом эссе Барбагалло рассматривает историю репродуктивного
    труда во время становления капитализма, демонстрируя ключевую роль
@@ -517,7 +517,7 @@ Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 2
 1. _Lila Leibowitz:_ In the Beginning... : The Origins of the Sexual Division of
 Labour and the Development of the First Human Societies // Stephanie Coontz,
 Peta Henderson (eds.) [*Women’s Work, Men’s Property*](
-/book/Womens Work, Mens Property.pdf). Страницы 51–79.
+/book/Womens%20Work%2C%20Mens%20Property.pdf). Страницы 51–79.
 
    **Описание:** статья Лейбовиц критикует биодетерминистские теории полового
    разделения труда и предлагает собственную, согласно которой, в ранних
@@ -538,7 +538,7 @@ Peta Henderson (eds.) [*Women’s Work, Men’s Property*](
    институализация гендера повлекла за собой снижение полового диморфизма?
 
 2. _Рэйвин Коннелл:_ [**Гендер и власть: Общество, личность и гендерная политика.**](
-/book/Gender and Power. Chapter 5-6.pdf) Глава 5. Основные структуры: труд,
+/book/Gender%20and%20Power.%20Chapter%205-6.pdf) Глава 5. Основные структуры: труд,
 власть, катексис. Страницы 1–18.
 
    **Описание:** в этой главе Коннелл предлагает анализировать феномен гендера
@@ -559,7 +559,7 @@ Peta Henderson (eds.) [*Women’s Work, Men’s Property*](
    также связана со сферой производства?
 
 3. _Evelyn Nakano Glenn:_ [*From Servitude to Service Work*](
-/book/From Servitude to Service Work.pdf).
+/book/From%20Servitude%20to%20Service%20Work.pdf).
 
    **Описание:** в этом эссе Гленн рассматривает мало изученную область
    интерсекциональности и теории социального воспроизводства — расовое
@@ -582,7 +582,7 @@ Peta Henderson (eds.) [*Women’s Work, Men’s Property*](
    учитывающий разницу в интересах разных женщин?
 
 4. _Melissa W. Wright:_ [*Disposable Women and Other Myths of Global Capitalism*](
-/book/Disposable Women and Other Myths of Global Capitalism.pdf). 2. Disposable
+/book/Disposable%20Women%20and%20Other%20Myths%20of%20Global%20Capitalism.pdf). 2. Disposable
 Daughters and Factory Fathers. Страницы 23–45.
 
    **Описание:** в этой главе Мелисса Райт наблюдает за одной из фабрик в Китае,
@@ -611,7 +611,7 @@ Daughters and Factory Fathers. Страницы 23–45.
 ### Дополнительно
 
 1. _Heidi Hartman:_ [*Capitalism, Patriarchy and Job Segregation by Sex*](
-/book/Capitalist Patriarchy and the Case for Socialist Feminism.pdf) // Zillah
+/book/Capitalist%20Patriarchy%20and%20the%20Case%20for%20Socialist%20Feminism.pdf) // Zillah
 R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Feminism.
 Страницы 206–248.
 
@@ -669,7 +669,7 @@ https://www.historicalmaterialism.org/articles/racism-and-logic-capitalism).
    **Термины:** производительность труда (productivity of labour) / манихейское
    мышление (Manichean thinking) / перманентная революция (permanent revolution)
 
-2. _Анджела Дэвис:_ [**Женщины, раса, класс**](/book/Women, Race, Class.pdf).
+2. _Анджела Дэвис:_ [**Женщины, раса, класс**](/book/Women%2C%20Race%2C%20Class.pdf).
 Глава 1. Рабство и критерии новой женственности. Страницы 7–13.
 
    **Описание:** в этой главе Дэвис приводит обзор литературы, посвящённой
@@ -692,7 +692,7 @@ https://www.historicalmaterialism.org/articles/racism-and-logic-capitalism).
    характеризуется «новая женственность» рабынь?
 
 3. _Maria Lugones:_ [*The Coloniality of Gender*](
-/book/The Coloniality of Gender.pdf).
+/book/The%20Coloniality%20of%20Gender.pdf).
 
    **Описание:** отталкиваясь от вопроса о том, почему небелые мужчины часто
    оказываются безразличны к проблемам небелых женщин, Лугонес пытается
@@ -731,7 +731,7 @@ https://www.historicalmaterialism.org/articles/racism-and-logic-capitalism).
 
 4. _Anne McClintock:_
 [*Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest*](
-/book/Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest.pdf).
+/book/Imperial%20Leather.%20Race%2C%20Gender%2C%20and%20Sexuality%20in%20the%20Colonial%20Contest.pdf).
 1\. The Lay of the Land. Genealogies of Imperialism. Страницы 21–75.
 
    **Описание:** в первой главе своей книги Imperial Leather Энн МакКлинток
@@ -772,7 +772,7 @@ https://syg.ma/@danil-danila/giendier-eto-kolonialistskoie-izobrietieniie-intier
    изымаются из модерности и категории человека. Этот принцип приводит нас к
    мысли Марии Лугонес, предложившей понятие колониальности гендера.
 
-2. _Анджела Дэвис:_ [**Женщины, раса, класс**](/book/Women, Race, Class.pdf).
+2. _Анджела Дэвис:_ [**Женщины, раса, класс**](/book/Women%2C%20Race%2C%20Class.pdf).
 Глава 11. Изнасилование, расизм и миф о черном насильнике. Страницы 58–65.
 
    **Описание:** эта глава книги Дэвис посвящена исследованию изнасилования как
@@ -798,7 +798,7 @@ https://syg.ma/@danil-danila/giendier-eto-kolonialistskoie-izobrietieniie-intier
 ### Список литературы
 
 1. _Гейл Рубин:_ [**Обмен женщинами. Заметки о «политической экономии» пола**](
-/book/The Traffic in Women.pdf).
+/book/The%20Traffic%20in%20Women.pdf).
 
    **Описание:** в этом эссе Рубин предлагает собственную теорию, объясняющую
    угнетённое положение женщин, которая основана на работах Маркса, Фрейда и
@@ -825,7 +825,7 @@ https://syg.ma/@danil-danila/giendier-eto-kolonialistskoie-izobrietieniie-intier
    Леви-Стросса? Что такое политическая экономия пола?
 
 2. _Juliet Mitchell:_ [*Psychoanalysis and Feminism*](
-/book/Psychoanalysis and Feminism.pdf). Conclusion: The Holy Family and
+/book/Psychoanalysis%20and%20Feminism.pdf). Conclusion: The Holy Family and
 Femininity. Страницы 370–381; 401–416.
 
    **Описание:** в заключительной части своего труда о феминизме и психоанализе
@@ -858,7 +858,7 @@ Femininity. Страницы 370–381; 401–416.
    кастрация (symbolic castration)
 
 3. _Luce Irigaray:_ [*This Sex Which Is Not One*](
-/book/This Sex Which Is Not One.pdf). Women on the Market; Commodities among
+/book/This%20Sex%20Which%20Is%20Not%20One.pdf). Women on the Market; Commodities among
 Themselves. Страницы 170–197.
 
    **Описание:** в этих двух эссе Иригарей прочитывает положение женщины в
@@ -913,7 +913,7 @@ Themselves. Страницы 170–197.
 
 ### Дополнительно
 
-1. Нэнси Чодороу: [**Психодинамика семьи**](/book/The Psychodynamic of the Family.pdf).
+1. Нэнси Чодороу: [**Психодинамика семьи**](/book/The%20Psychodynamic%20of%20the%20Family.pdf).
 
    **Описание:** в этом тексте Чодороу обращает внимание на ассиметричное
    развитие гетеросексуальности у мальчиков и девочек в контексте нуклеарной
@@ -931,7 +931,7 @@ Themselves. Страницы 170–197.
 
 2. _Джулиет Митчелл:_
 [**Женская сексуальность. Жак Лакан и école freudienne. Введение**](
-/book/Feminine Sexuality.pdf).
+/book/Feminine%20Sexuality.pdf).
 
    **Описание:** во введении к хрестоматии текстов Лакана о женской
    сексуальности Митчелл рассматривает одно из ключевых напряжений между
@@ -946,7 +946,7 @@ Themselves. Страницы 170–197.
    описание того, как она конструируется при патриархате, и это описание
    критически важно для феминизма.
 
-3. _Alenka Zupančič:_ [*What Is Sex?*](/book/What Is Sex.pdf) 3. Contradictions
+3. _Alenka Zupančič:_ [*What Is Sex?*](/book/What%20Is%20Sex.pdf) 3. Contradictions
 that Matter. Sex or Gender? Страницы 35–44.
 
    **Описание:** в этом разделе Зупанчич критикует ответвления феминизма,
@@ -984,7 +984,7 @@ https://syg.ma/@mariia-bikbulatova/miezhdu-psikhoanalizom-i-fieministskoi-episti
 ### Список литературы
 
 1. _Michele Barret, Mary McIntosh:_ [*The Anti-social Family*](
-/book/The Anti-Social Family.pdf). II. The Anti-Social Family (подглавки 1–3,
+/book/The%20Anti-Social%20Family.pdf). II. The Anti-Social Family (подглавки 1–3,
 5–7). Страницы 43–60, 67–82.
 
    **Описание:** во второй главе книги The Anti-Social Family Баррет и Макинтош
@@ -1010,7 +1010,7 @@ https://syg.ma/@mariia-bikbulatova/miezhdu-psikhoanalizom-i-fieministskoi-episti
    сексуального удовольствия внутри семьи? Каковы истоки «сексуальной
    асимметрии»? Как влияет валоризация семьи на группы, не состоящие в семьях?
 
-2. _M. E. O’Brien:_ [*To Abolish the  Family*](/book/To Abolish the Family.pdf).
+2. _M. E. O’Brien:_ [*To Abolish the  Family*](/book/To%20Abolish%20the%20Family.pdf).
 
    **Описание:** М. Е. О’Брайен рассматривает исторический прогресс семейных
    отношений и доминантные формы семьи в разное время и при разном социальном
@@ -1042,7 +1042,7 @@ https://syg.ma/@mariia-bikbulatova/miezhdu-psikhoanalizom-i-fieministskoi-episti
 
 3. _Paul Blackledge:_
 [*Frederick Engels, Social Reproduction, and the Problem of a Unitary Theory of Women's Oppression*](
-/book/Frederick Engels, Social Reproduction, and the Problem of a Unitary Theory of Womens Oppression.pdf).
+/book/Frederick%20Engels%2C%20Social%20Reproduction%2C%20and%20the%20Problem%20of%20a%20Unitary%20Theory%20of%20Womens%20Oppression.pdf).
 
    **Описание:** Блэкледж обращается к классической работе Фридриха Энгельса
    «Происхождение семьи, частной собственности и государства», оказавшей
@@ -1069,7 +1069,7 @@ https://syg.ma/@mariia-bikbulatova/miezhdu-psikhoanalizom-i-fieministskoi-episti
    нуклеарную семью? Какая интерпретация положения женщин в социалистических
    странах позволяет сохранить унитарную теорию женского угнетения?
 
-4. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The Dialectic of Sex.pdf).
+4. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The%20Dialectic%20of%20Sex.pdf).
 4\. Down with Childhood. Страницы 91–104.
 
    **Описание:** во второй части главы, посвящённой детям, Файерстоун описывает
@@ -1111,7 +1111,7 @@ https://www.marxists.org/russkij/marx/1845/working_class_england/05.htm).
    английского пролетариата.
 
 2. _Lise Vogel:_ [*Marxism and the Oppression of Women*](
-/book/Marxism and the Oppression of Women.pdf). 2. Marx and Engels. Страницы
+/book/Marxism%20and%20the%20Oppression%20of%20Women.pdf). 2. Marx and Engels. Страницы
 43–96.
 
    **Описание:** в этой главе Фогель приводит полный и систематичный обзор
@@ -1139,7 +1139,7 @@ https://www.marxists.org/russkij/marx/1845/working_class_england/05.htm).
 ### Список литературы
 
 1. _Laura T. Kessler:_ [*Transgressive Caregiving*](
-/book/Transgressive Caregiving.pdf). II. Transgressive Caregiving as Politics.
+/book/Transgressive%20Caregiving.pdf). II. Transgressive Caregiving as Politics.
 Страницы 12–44.
 
    **Описание:** в этой главе Лаура Кесслер рассуждает об исторических практиках
@@ -1169,7 +1169,7 @@ https://www.marxists.org/russkij/marx/1845/working_class_england/05.htm).
    хотят реконцептуализировать системы родства?
 
 2. _Shelley M. Park:_ [*Is Queer Parenting Possible?*](
-/book/Is Queer Parenting Possible.pdf)
+/book/Is%20Queer%20Parenting%20Possible.pdf)
 
    **Описание:** в этом автобиографическом эссе Парк размышляет о природе и
    возможность квир-родительства на примере своей собственной семьи:
@@ -1226,7 +1226,7 @@ https://www.marxists.org/russkij/marx/1845/working_class_england/05.htm).
    преодолевать трудности в имплементации своей системы?
 
 4. _Sophie A. Lewis:_ [*Full Surrogacy Now*](
-/book/Full Surrogacy Now. Feminism Against Family.pdf). 6. Another Surrogacy Is
+/book/Full%20Surrogacy%20Now.%20Feminism%20Against%20Family.pdf). 6. Another Surrogacy Is
 Possible. Страницы 137–154.
 
    **Описание:** в этой главе из книги Full Surrogacy Now Льюис переосмысливает
@@ -1256,7 +1256,7 @@ Possible. Страницы 137–154.
 
 1. _Sylvia Federici:_
 [*Feminism and the Politics of the Common in an Era of Primitive Accumulation*](
-/book/Revolution at Point Zero. Housework, Reproduction, and Feminist Struggle.pdf)
+/book/Revolution%20at%20Point%20Zero.%20Housework%2C%20Reproduction%2C%20and%20Feminist%20Struggle.pdf)
 // Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle.
 Страницы 163–174.
 
@@ -1264,11 +1264,11 @@ Possible. Страницы 137–154.
 
 2. _Lucy Jen Huang:_
 [*The Family and the Communes in People's Republic of China: Retrospect and Prospect*](
-/book/The Family and the Communes in Peoples Republic of China.pdf).
+/book/The%20Family%20and%20the%20Communes%20in%20Peoples%20Republic%20of%20China.pdf).
 
    **Описание:**
 
-3. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The Dialectic of Sex.pdf).
+3. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The%20Dialectic%20of%20Sex.pdf).
 Conclusion: The Ultimate Revolution. Страницы 205–242.
 
    **Описание:** в последней главе Файерстоун формулирует проект общества после
@@ -1281,7 +1281,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
 
 4. _Evie Kendal:_
 [*Utopian Literature and Bioethics: Exploring Reproductive Difference and Gender Equality*](
-/book/Utopian Literature and Bioethics.pdf).
+/book/Utopian%20Literature%20and%20Bioethics.pdf).
 
    **Описание:** в этом эссе Кендал рассматривает, как феминистская утопическая
    литература может помогать осмыслить биологические различия полов и
@@ -1304,7 +1304,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
 ### Список литературы
 
 1. _Криста Вихтерих:_ [**Сексуальные и репродуктивные права**](
-/book/Sexual and Reproductive Rights.pdf). Разделы 3–5. Страницы 23–36.
+/book/Sexual%20and%20Reproductive%20Rights.pdf). Разделы 3–5. Страницы 23–36.
 
    **Описание:** в этом эссе Криста Вихтерих предлагает вниманию читательниц
    краткий обзор репродуктивных прав и способов их соблюдения или же нарушения
@@ -1335,7 +1335,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
 
 2. _Jeanne Flavin:_
 [*Our Bodies, Our Crimes. Breeders: The Right to Procreate*](
-/book/Our Bodies, Our Crimes.pdf). Страницы 29–51.
+/book/Our%20Bodies%2C%20Our%20Crimes.pdf). Страницы 29–51.
 
    **Описание:** в этой главе Флавин анализирует историю и современность
    вмешательств американского государства и суда в право женщин на деторождение.
@@ -1366,7 +1366,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
    более широким и опасным последствиям?
 
 3. _Andrea Smith:_ [*Beyond Pro-Choice Versus Pro-Life*](
-/book/Beyond Pro-Choice Versus Pro-Life.pdf).
+/book/Beyond%20Pro-Choice%20Versus%20Pro-Life.pdf).
 
    **Описание:** в этой статье Смит утверждает, что парадигма «пролайф vs
    прочойс», используемая в качестве модели для осмысления репродуктивных прав,
@@ -1399,7 +1399,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
 
 4. _Asha Nadkarni:_
 [**Eugenic Feminism: Reproductive Nationalism in the United States and India. Transnational Surrogacy and the Neoliberal Mother India**](
-/book/Eugenic Feminism.pdf).
+/book/Eugenic%20Feminism.pdf).
 
    **Описание:**  в заключении своей книги Аша Надкарни рассматривает
    документальный фильм Google Baby о коммерческом репродуктивном труде, и
@@ -1432,7 +1432,7 @@ Conclusion: The Ultimate Revolution. Страницы 205–242.
 ### Дополнительно
 
 1. _Jennifer Nelson:_ [*Women of Color and the Reproductive Rights Movement*](
-/book/Women of Color and the Reproductive Rights Movement.pdf). “An act of
+/book/Women%20of%20Color%20and%20the%20Reproductive%20Rights%20Movement.pdf). “An act of
 valor for a woman need not take place inside of her”: Black Women, Feminism, and
 Reproductive Rights. Страницы 55–83.
 
@@ -1533,7 +1533,7 @@ https://marxists.architexturez.net/history/etol/newspape/isj2/1989/isj2-045/mcgr
 
 3. _Julia Schwendinger & Herman Schwendinger:_
 [*Rape, Sexual Inequality, and Levels of Violence*](
-/book/Rape, Sexual Inequality, and Levels of Violence.pdf). Chapters II, III,
+/book/Rape%2C%20Sexual%20Inequality%2C%20and%20Levels%20of%20Violence.pdf). Chapters II, III,
 IV, Conclusion. Страницы 366–404.
 
    **Описание:** в этой работе авторы анализируют связи между способом
@@ -1598,17 +1598,17 @@ https://www.prisonpolicy.org/scans/instead_of_prisons/chapter8.shtml). Все
 
 1. _Incite! and Critical Resistance:_
 [*Statement on Gender Violence And the Prison-Industrial Complex*](
-/book/Statement on Gender Violence And the Prison-Industrial Complex.pdf).
+/book/Statement%20on%20Gender%20Violence%20And%20the%20Prison-Industrial%20Complex.pdf).
 
    **Описание:**
 
 2. _Тереза де Лауретис:_ [**Риторика насилия. Ген(д)ерированное насилие**](
-/book/Gendered Violence.pdf). Страницы 351–358.
+/book/Gendered%20Violence.pdf). Страницы 351–358.
 
    **Описание:**
 
 3. _Laura Mandell:_ [*Misogynous Economies. 2. Capitalism and Rape*](
-/book/Misogynous Economies. Chapter 2.pdf).
+/book/Misogynous%20Economies.%20Chapter%202.pdf).
 
    **Описание:**
 
@@ -1624,7 +1624,7 @@ https://www.prisonpolicy.org/scans/instead_of_prisons/chapter8.shtml). Все
 ### Список литературы
 
 1. _Сильвия Федеричи:_ [**Великий Калибан. Борьба против мятежного тела**](
-/book/The Great Caliban.pdf).
+/book/The%20Great%20Caliban.pdf).
 
    **Описание:** в этой главе Сильвия Федеричи рассуждает о том, как в ходе
    истории менялось наше отношение к телу. Она ассоциирует понимание тела как
@@ -1655,7 +1655,7 @@ https://www.prisonpolicy.org/scans/instead_of_prisons/chapter8.shtml). Все
    подчинением её Разуму?
 
 2. _Martha Rusell:_ [*Capitalism & Disability*](
-/book/Capitalism and Disability.pdf). Section I. The Political Economy of
+/book/Capitalism%20and%20Disability.pdf). Section I. The Political Economy of
 Disability. Chapters 1–3. Страницы 26–53.
 
    **Описание:** в главах, посвященных теоретическому соединению концепций
@@ -1744,7 +1744,7 @@ https://salvage.zone/in-print/serf-n-terf-notes-on-some-bad-materialisms/).
 
 ### Дополнительно
 
-1. _Rosi Braidotti:_ [*Nomadic Subjects*](/book/Nomadic Subjects.pdf). Chapter
+1. _Rosi Braidotti:_ [*Nomadic Subjects*](/book/Nomadic%20Subjects.pdf). Chapter
 2: Body Images and the Pornography of Representation. Страницы 57–74.
 
    **Описание:** в этой главе Брайдотти, опираясь на понятие биовласти Фуко,
@@ -1798,7 +1798,7 @@ http://kcgs.net.ua/gurnal/24/18-gi24.pdf).
 
 2. _Suvi Salmenniemi, Maria Adamson:_
 [*New Heroines of Labour: Domesticating Post-feminism and Neoliberal Capitalism in Russia*](
-/book/New Heroines of Labour.pdf).
+/book/New%20Heroines%20of%20Labour.pdf).
 
    **Описание:** в этой статье на материале женской литературы селф-хелп
    анализируются особенности постфеминизма в России. Авторки показывают, что
@@ -1810,7 +1810,7 @@ http://kcgs.net.ua/gurnal/24/18-gi24.pdf).
    концентрации на добродетели труда они усматривают искажённое и отрицаемое,
    однако длящееся наследие советской идеологии.
 
-3. _Gargi Bhattacharyya:_ [*Dangerous Brown Men*](/book/Dangerous Brown Men.pdf).
+3. _Gargi Bhattacharyya:_ [*Dangerous Brown Men*](/book/Dangerous%20Brown%20Men.pdf).
 Chapter 1. The Misuse of Feminism in Foreign Policy.
 
    **Описание:**
@@ -1824,13 +1824,13 @@ https://commons.com.ua/uk/vojna-nacionalizm-i-zhenskij-vopros/).
 ### Дополнительно
 
 1. _Victoria Bernal, Inderpal Grewal:_
-[*Theorizing NGOs: States, Feminisms and Neoliberalism*](/book/Theorizing NGOs.pdf).
+[*Theorizing NGOs: States, Feminisms and Neoliberalism*](/book/Theorizing%20NGOs.pdf).
 Feminisms and the NGO Form. Страницы 301–310.
 
    **Описание:**
 
 2. _Nancy Fraser:_ [*Feminism, Capitalism and the Cunning of History*](
-/book/Feminism, Capitalism and the Cunning of History.pdf). Краткий конспект
+/book/Feminism%2C%20Capitalism%20and%20the%20Cunning%20of%20History.pdf). Краткий конспект
 этой статьи на русском языке можно найти [**здесь**](
 https://twitter.com/book_explained/status/1258736267950526465).
 
@@ -1838,7 +1838,7 @@ https://twitter.com/book_explained/status/1258736267950526465).
 
 3. _Marjorie Jolles:_
 [*Going Rogue: Postfeminism and the Privilege of Breaking Rules*](
-/book/Going Rogue.pdf).
+/book/Going%20Rogue.pdf).
 
    **Описание:**
 

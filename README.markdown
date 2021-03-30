@@ -24,7 +24,7 @@ levochki
 Участие в разработке
 --------------------
 Присылайте патчи и пулл-реквесты с помощью [git-send-email(1)][git1] или
-[git-request-pull(1)][git2] на адрес cybertailor@gmail.com.
+[git-request-pull(1)][git2] на адрес <cyber@sysrq.in>.
 
 [git1]: https://git-send-email.io/
 [git2]: https://git-scm.com/docs/git-request-pull
