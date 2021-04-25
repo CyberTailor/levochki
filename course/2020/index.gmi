@@ -3,7 +3,7 @@
 Собственно, это та литература, по которой проходили встречи ☺
 
 Если вы желаете добавить отсутствующее описание к ресурсу или что-то исправить, внесите свой вклад:
-=> https://git.sysrq.in/levochki/about/
+=> gemini://git.sysrq.in/levochki/
 
 ## 1. Введение в левый феминизм
 
@@ -278,8 +278,6 @@ Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Стр
 
 ### Дополнительно
 
---
-
 => /htdocs/book/Capitalist%20Patriarchy%20and%20the%20Case%20for%20Socialist%20Feminism.pdf 1. Heidi Hartman: Capitalism, Patriarchy and Job Segregation by Sex
 Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Feminism. Страницы 206–248.
 
@@ -330,8 +328,6 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 Вопросы к тексту: Зачем к колонизируемым землям применялась феминизирующая символика? Каким образом происходил процесс расового обозначивания домашнего пространства и, соответственно, «одомашнивания» колонизируемых пространств? Что означает паноптикальное время (panoptical time) и анахронистическое пространство (anachronistic space)? Каким образом была установлена триангулярная связь между расовой, классовой и гендерной «дегенерацией»? В чем заключалась концепция Family of Man? Какие типы колониальной субверсии существовали в колониях и в чем заключались их недостатки? С какими психоаналитическими идеями взаимодействует МакКлинток и каким образом?
 
 ### Дополнительно
-
---
 
 => https://syg.ma/@danil-danila/giendier-eto-kolonialistskoie-izobrietieniie-intierviu-s-madinoi-tlostanovoi-diekolonialnoi-issliedovatielnitsiei 1. Мадина Тлостанова: Гендер — это колониалистское изобретение
 

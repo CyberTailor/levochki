@@ -12,4 +12,4 @@
 
 --
 
-=> https://git.sysrq.in/levochki/about Исходный код (CC BY-SA 4.0)
+=> gemini://git.sysrq.in/levochki/summary Исходный код (CC BY-SA 4.0)
