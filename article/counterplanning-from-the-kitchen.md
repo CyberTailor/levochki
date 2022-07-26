@@ -3,6 +3,7 @@ author: Николь Кокс, Сильвия Федеричи
 copyright: 1975, Nicole Cox and Silvia Federici
 css: /styles.css
 title: Контр-планирование из кухни — Николь Кокс и Сильвия Федеричи
+lang: ru
 
 [md-source]:
 https://git.sysrq.in/levochki/tree/article/counterplanning-from-the-kitchen.md
