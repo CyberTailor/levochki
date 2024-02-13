@@ -17,7 +17,7 @@ $ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
 
 ### Список литературы
 
-=> /htdocs/book/F99.pdf 1. Феминизм для 99%
+=> ipfs://bafybeieinn3riajpnzqpj7gwpcqlm567xp4p2ylso2merxyllqgofkp7ou/F99.pdf 1. Феминизм для 99%
 Тезис 2: Либеральный феминизм несостоятелен. Пора с ним покончить.
 Страница 21.
 
@@ -27,7 +27,7 @@ $ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
 
 --
 
-=> /htdocs/book/Feminist%20Political%20Theory.pdf 2. Валери Брайсон: Политическая теория феминизма
+=> ipfs://bafybeib4rt2mykgohgs2idepbez3eamcuadcb2puo5zmuo56y4b45tz56u/Feminist%20Political%20Theory.pdf 2. Валери Брайсон: Политическая теория феминизма
 Страницы 115–151.
 
 Описание: пятая, шестая и седьмая главы книги Валери Брайсон полезны тем, что позволяют историзировать начало и развитие социалистического феминизма.  Двигаясь от его зарождения в Америке и Британии, Брайсон описывает его развитие в Германии и заканчивает в СССР.
@@ -38,7 +38,7 @@ $ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
 
 --
 
-=> /htdocs/book/Marxism%20and%20the%20Oppression%20of%20Women.pdf 3. Lise Vogel: Marxism and the Oppression of Women
+=> ipfs://bafybeifnvkxwheu4amz4rtr57rekfxnvr7v2cvl7hqdpb2iqw4gwgwn6bq/Marxism%20and%20the%20Oppression%20of%20Women.pdf 3. Lise Vogel: Marxism and the Oppression of Women
 Страницы 13–43.
 
 Описание: вторая и третья главы этой книги помогут нам лучше понять процесс развития теории социалистического феминизма, предложат к рассмотрению тезисы из текстов, которые привели к его зарождению, и дадут нам необходимую лексику из марксистского анализа, позволяющую рассуждать о женском труде — как в сфере производства, так и в сфере воспроизводства.
@@ -67,7 +67,7 @@ $ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
 
 ### Список литературы
 
-=> /htdocs/book/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf 1. Хайди Хартманн: Несчастливый брак марксизма с феминизмом
+=> ipfs://bafybeif7f2npvmi4nni475dschj7rnrj6ssaa7efkt3q4f76pvfwfrkbgu/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf 1. Хайди Хартманн: Несчастливый брак марксизма с феминизмом
 Страницы 4–59.
 
 Описание: эссе Хайди Хартманн, вызвавшее широкий отклик в феминистском сообществе, задаётся вопросом о связи между капитализмом и патриархатом, и о том, как возможно примирить друг с другом теории, анализирующие их: марксизм и феминизм. Критикуя марксизм за слепоту к гендерному угнетению, а радикальный феминизм за аисторичность и идеализм, Хартманн предлагает свою теорию двойных систем, призванную «осчастливить брак» двух движений, а также приводит исторический анализ взаимодействий капитализма и патриархата.
@@ -80,7 +80,7 @@ $ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
 
 --
 
-=> /htdocs/book/Beyond%20the%20Unhappy%20Marriage.pdf 2. Iris Young: Beyond the Unhappy Marriage: A Critique of the Dual Systems Theory
+=> ipfs://bafybeie7iyaascea74jwe2amwajlc75ox4ogbzywqfznog7tdpnjzk3kge/Beyond%20the%20Unhappy%20Marriage.pdf 2. Iris Young: Beyond the Unhappy Marriage: A Critique of the Dual Systems Theory
 Sargent L. (ed.) Women and Revolution. Страницы 43–70.
 
 Описание: в этом эссе Айрис Янг критикует предложенную Хайди Хартманн теорию двойных систем, которая нужна, чтобы «починить» несложившийся брак марксизма и феминизма. Сама Янг считает, что для политического прогресса социалистического и марксистского феминизма важны рассмотрение патриархата и капитализма в качестве одной системы и теоретическая интеграция феминизма и марксизма.
@@ -91,7 +91,7 @@ Sargent L. (ed.) Women and Revolution. Страницы 43–70.
 
 --
 
-=> /htdocs/book/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf 3. Чинция Арруцца: Квир-союз между марксизмом и феминизмом?
+=> ipfs://bafybeif7f2npvmi4nni475dschj7rnrj6ssaa7efkt3q4f76pvfwfrkbgu/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf 3. Чинция Арруцца: Квир-союз между марксизмом и феминизмом?
 Хартманн Х. Несчастливый брак марксизма с феминизмом. Страницы 60–74.
 
 Описание: последняя глава книги Чинции Арруццы о связях марксизма и феминизма посвящена анализу теории двойных систем Хартманн, последовавшей дискуссии и критике. Также Арруцца предлагает собственный взгляд на проблему взаимодействия разных систем угнетения.
@@ -102,7 +102,7 @@ Sargent L. (ed.) Women and Revolution. Страницы 43–70.
 
 --
 
-=> /htdocs/book/Caliban%20and%20the%20Witch.pdf 4. Сильвия Федеричи: Калибан и ведьма. Накопление труда и падение женщин
+=> ipfs://bafybeif2zecos4cihejsbdzwg7nrqkp5d4t437k42uzr2gsmfot4upjove/Caliban%20and%20the%20Witch.pdf 4. Сильвия Федеричи: Калибан и ведьма. Накопление труда и падение женщин
 Страницы 74–141.
 
 Описание: в этой главе Федеричи показывает, что первоначальное накопление капитала было связано с порабощением женщин, великой европейской охотой на ведьм и установлением иерархий (гендерных, расовых и т. д.) внутри зарождающегося рабочего класса, и утверждает, вопреки Марксу, что формирование пролетариата не было эмансипационным процессом, но привнесло ещё больше разделения и угнетения по сравнению с эпохой феодализма.
@@ -117,7 +117,7 @@ Sargent L. (ed.) Women and Revolution. Страницы 43–70.
 
 --
 
-=> /htdocs/book/Psychoanalysis%20and%20Feminism.pdf 2. Juliet Mitchell: Psychoanalysis and Feminism
+=> ipfs://bafybeihoedr3rlzyz42yciqivij4gqtdh4jypfebnxswdjv4njnsum7miq/Psychoanalysis%20and%20Feminism.pdf 2. Juliet Mitchell: Psychoanalysis and Feminism
 Conclusion: 6. The Cultural Revolution.
 Страницы 407–416.
 
@@ -129,7 +129,7 @@ Conclusion: 6. The Cultural Revolution.
 
 ### Список литературы
 
-=> /htdocs/book/Gender%20Trouble.pdf 1. Джудит Батлер: Гендерное беспокойство
+=> ipfs://bafybeibg27vwr5raq3vnx2wahc4soab4x26h6t4isiglezp5jfprdsrb4u/Gender%20Trouble.pdf 1. Джудит Батлер: Гендерное беспокойство
 1.1. «Женщины» как центральная тема феминизма; 1.4. Формирование теорий бинарности, унитарности и запредельного им.
 Страницы 297–305; 314–318.
 
@@ -141,7 +141,7 @@ Conclusion: 6. The Cultural Revolution.
 
 --
 
-=> /htdocs/book/Redistribution%20or%20recognition.pdf 2. Нэнси Фрейзер: От перераспределения к признанию? Дилеммы справедливости в «пост-социалистическую» эпоху
+=> ipfs://bafybeihv22vg7dzas3aceqh2u4ctwpnxw4legfauvifsvlor5o7z3pg2mq/Redistribution%20or%20recognition.pdf 2. Нэнси Фрейзер: От перераспределения к признанию? Дилеммы справедливости в «пост-социалистическую» эпоху
 
 Описание: в этом эссе Нэнси Фрейзер обращает внимание читательниц на дилемму перераспределения-признания, отмечая, что сегодня борьба за признание стала основной формой политического конфликта. Тем не менее, эта борьба по прежнему происходит в мире, отмеченном усугубляющимся материальным неравенством — и это создаёт напряжение между требованиями перераспределения и требованиями признания. Для смягчения этой дилеммы в случаях, где вопросы перераспределения и признания должны подниматься одновременно, Фрейзер предлагает двойное решение.
 
@@ -171,19 +171,19 @@ Conclusion: 6. The Cultural Revolution.
 
 --
 
-=> /htdocs/book/Merely%20Cultural.pdf 2. Джудит Батлер: Чисто культурное
+=> ipfs://bafybeiapkkptkloslizeddjilqygb7zuihcsjyg5zqkr66zxif2r2te22q/Merely%20Cultural.pdf 2. Джудит Батлер: Чисто культурное
 
 Описание: Батлер вступает в полемику с левой критикой «политики идентичности», обвиняющей новые движения (феминистские, антирасистские, гей/лесбийские) в том, что они относятся к сфере «чисто культурного» и раскалывают солидарность левых. Сначала она показывает, что «чисто культурной» и раскалывающей движение является прежде всего сама эта критика, а затем обращается к работам Нэнси Фрейзер, демонстрируя неадекватность проведённого там различия между перераспределением и признанием и встроенность такой (на первый взгляд связанной только с признанием) проблемы как гомофобия в самое сердце политической экономии.
 
 --
 
-=> /htdocs/book/Feminism%2C%20citizenship%2C%20and%20radical%20democratic%20politics.pdf 3. Шанталь Муфф: Феминизм, гражданство и радикальная демократическая политика
+=> ipfs://bafybeicwhouikipajj2boalrg7w4eciy5i5gobnolt6wlpsgww5kntno7y/Feminism%2C%20citizenship%2C%20and%20radical%20democratic%20politics.pdf 3. Шанталь Муфф: Феминизм, гражданство и радикальная демократическая политика
 
 Описание: Муфф анализирует и отвергает различные феминистские теории, пытающиеся переосмыслить политическое пространство таким образом, чтобы женщины могли быть в нём адекватно представлены, и на основании антиэссенциалистского представления о субъекте развивает собственную теорию радикальной демократии, согласно которой гражданство предполагает участие в антагонизмах, а объединение ради общих целей не требует опоры на заранее данную идентичность (такую как «женщины»).
 
 --
 
-=> /htdocs/book/Mistaken%20Identity.pdf 4. Asad Haider: Mistaken Identity
+=> ipfs://bafybeifymh3u46v46jsxrj3gr2g2grtcgace3zgvu5f3cixyydcj2njhha/Mistaken%20Identity.pdf 4. Asad Haider: Mistaken Identity
 6. Universality.
 Страницы 90–99.
 
@@ -203,7 +203,7 @@ Conclusion: 6. The Cultural Revolution.
 
 --
 
-=> /htdocs/book/Social%20Reproduction%20Theory.pdf 2. Nancy Fraser: Crisis of Care? On the Social-Reproductive Contradictions of Contemporary Capitalism
+=> ipfs://bafybeifh3aiuyi5enwlnbbscdy3uuly7suapzrcgmj3gjqqs7jlscde5fi/Social%20Reproduction%20Theory.pdf 2. Nancy Fraser: Crisis of Care? On the Social-Reproductive Contradictions of Contemporary Capitalism
 Tithi Bhattacharya (ed.) Social Reproduction Theory: Remapping Class, Recentering Oppression. Страницы 21–37.
 
 Описание: в этом эссе Нэнси Фрейзер обращает внимание читательниц на то, что помимо экономического, политического и экологического кризиса, капитализм проходит через кризис социального воспроизводства, кризис заботы. Она отслеживает социальные противоречия капитализма и рассматривает исторические режимы (либеральный, государственно-регулируемый и финансиализированный), в которых существовал капитализм и социальное воспроизводство.
@@ -220,7 +220,7 @@ Tithi Bhattacharya (ed.) Social Reproduction Theory: Remapping Class, Recenterin
 
 --
 
-=> /htdocs/book/Some%20Womens%20Work.pdf 4. Terri Nilliasca: Some Women’s Work: Domestic Work, Class, Race, Heteronormativity, and the Limits of Legal Reform
+=> ipfs://bafybeibtxvo7u5anw4h6m3c6ornqonm62lcjedctt73pj7h2uxw6rfgc54/Some%20Womens%20Work.pdf 4. Terri Nilliasca: Some Women’s Work: Domestic Work, Class, Race, Heteronormativity, and the Limits of Legal Reform
 Страницы 377–399, 405–410.
 
 Описание: статья посвящена оплачиваемому домашнему труду в США. Ниллиаска показывает, как в этой сфере, где преимущественно заняты небелые женщины и мигрантки, воспроизводятся расизм, гетеропатриахат и колониализм, поддерживающие существующий неолиберальный порядок. Анализируя принятый в 2010 г. Билль о правах домашних работников, она задаётся вопросом, насколько подобное законодательство эффективно для по-настоящему трансформативной политики.
@@ -229,13 +229,13 @@ Tithi Bhattacharya (ed.) Social Reproduction Theory: Remapping Class, Recenterin
 
 ### Дополнительно
 
-=> /htdocs/book/The%20Domestic%20Labour%20Debate.pdf 1. Diemut Elisabet Bubeck: The Domestic Labour Debate
+=> ipfs://bafybeidwimookv5wn5l5sm7rpi2rw2bmrzdrxekmi4sbfflx4o2txe6k3q/The%20Domestic%20Labour%20Debate.pdf 1. Diemut Elisabet Bubeck: The Domestic Labour Debate
 
 Описание: в этой главе рассматривается дискуссия о домашнем труде, начавшаяся в 1960-х в качестве попытки марксистских феминисток предоставить объяснение женскому угнетению в капиталистических обществах. Дискуссия о домашнем труде стала коллективной (и даже немного спорной) попыткой создать материалистический анализ женского неоплачиваемого труда. Она интересна тем, что показывает, как сложно разработать феминистский анализ внутри теоретической системы, рассчитанной на условных усредненных мужчин.
 
 --
 
-=> /htdocs/book/Leaving%20Home.pdf 2. Camille Barbagallo: Leaving Home: Slavery and the Politics of Reproduction
+=> ipfs://bafybeigkpe7am5l3lgmrhfr237absnq252zbmqvpmxh3o2dio4u6ieoqku/Leaving%20Home.pdf 2. Camille Barbagallo: Leaving Home: Slavery and the Politics of Reproduction
 
 Описание: в этом эссе Барбагалло рассматривает историю репродуктивного труда во время становления капитализма, демонстрируя ключевую роль работорговли в складывании тех форм репродукции, которые существуют сейчас.  Она исследует сложные отношения женщин рабочего класса, жён буржуа и темнокожих рабынь к домашнему труду и рождению детей, и показывает амбивалентность дома и семьи, которые, вопреки распространённому в белом феминизме «второй волны» представлению о них как о закрепощающих женщину институтах, могут для небелых женщин оказываться местами сопротивления капиталу, расизму и государству.
 
@@ -245,7 +245,7 @@ Tithi Bhattacharya (ed.) Social Reproduction Theory: Remapping Class, Recenterin
 
 ### Список литературы
 
-=> /htdocs/book/Womens%20Work%2C%20Mens%20Property.pdf 1. Lila Leibowitz: In the Beginning…: The Origins of the Sexual Division of Labour and the Development of the First Human Societies
+=> ipfs://bafybeieh6clzd4qd5foytnhqefkuul27ws2k6vqogpjjbqkt7phqbkqmny/Womens%20Work%2C%20Mens%20Property.pdf 1. Lila Leibowitz: In the Beginning…: The Origins of the Sexual Division of Labour and the Development of the First Human Societies
 Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Страницы 51–79.
 
 Описание: статья Лейбовиц критикует биодетерминистские теории полового разделения труда и предлагает собственную, согласно которой, в ранних популяциях гоминид половое разделение труда отсутствовало, и ключевую роль в его возникновении сыграла растущая роль производства и обмена, как внутри групп, так и между ними. При этом авторка отмечает, что половой диморфизм не является принципиальной предпосылкой для полового разделения труда, но, наоборот, снижается по мере усложнения производства и установления межгрупповых связей через институализацию экзогамии.
@@ -254,7 +254,7 @@ Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Стр
 
 --
 
-=> /htdocs/book/Gender%20and%20Power.%20Chapter%205-6.pdf 2. Рэйвин Коннелл: Гендер и власть: Общество, личность и гендерная политика.
+=> ipfs://bafybeibng3uumtx4svhqit64uamte4br27re27dzi4qrbs3qa7dnlz6lbe/Gender%20and%20Power.%20Chapter%205-6.pdf 2. Рэйвин Коннелл: Гендер и власть: Общество, личность и гендерная политика.
 Глава 5. Основные структуры: труд, власть, катексис.
 Страницы 1–18.
 
@@ -264,7 +264,7 @@ Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Стр
 
 --
 
-=> /htdocs/book/From%20Servitude%20to%20Service%20Work.pdf 3. Evelyn Nakano Glenn: From Servitude to Service Work
+=> ipfs://bafybeibmcebwttfyhxlhskslanmacy73cx2v4grobxw5pq6ylhbvhdhqyi/From%20Servitude%20to%20Service%20Work.pdf 3. Evelyn Nakano Glenn: From Servitude to Service Work
 
 Описание: в этом эссе Гленн рассматривает мало изученную область интерсекциональности и теории социального воспроизводства — расовое разделение труда, а также взаимозависимость и иерархии, которые оно создает между белыми и не-белыми женщинами. Авторка предлагает к рассмотрению свой исторический анализ женской работы на Юге, Юго-Западе и дальнем Западе Соединенных Штатов. Замечая, как менялась сфера воспроизводства, она исследует то, каким образом раса и гендер были сконструированы вокруг разделения труда.
 
@@ -272,7 +272,7 @@ Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Стр
 
 --
 
-=> /htdocs/book/Disposable%20Women%20and%20Other%20Myths%20of%20Global%20Capitalism.pdf 4. Melissa W. Wright: Disposable Women and Other Myths of Global Capitalism
+=> ipfs://bafybeifmp7jwvrwutb6rbcapedgql4o25yz7f726lgi7znaqcltvidigh4/Disposable%20Women%20and%20Other%20Myths%20of%20Global%20Capitalism.pdf 4. Melissa W. Wright: Disposable Women and Other Myths of Global Capitalism
 2. Disposable Daughters and Factory Fathers.
 Страницы 23–45.
 
@@ -284,7 +284,7 @@ Stephanie Coontz, Peta Henderson (eds.) Women’s Work, Men’s Property. Стр
 
 ### Дополнительно
 
-=> /htdocs/book/Capitalist%20Patriarchy%20and%20the%20Case%20for%20Socialist%20Feminism.pdf 1. Heidi Hartman: Capitalism, Patriarchy and Job Segregation by Sex
+=> ipfs://bafybeiazf3ayz3u2fgwbuus52gko3pmguxjouq6xhfqvfyxczhiai7h6a4/Capitalist%20Patriarchy%20and%20the%20Case%20for%20Socialist%20Feminism.pdf 1. Heidi Hartman: Capitalism, Patriarchy and Job Segregation by Sex
 Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Feminism. Страницы 206–248.
 
 Описание: Хартманн детально исследует положение британских и американских женщин на рынке труда в ходе формирования капитализма и индустриальной революции, показывая, как уже существовавшее в докапиталистических обществах иерархическое половое разделение труда, целенаправленная деятельность мужских профсоюзов и тактика капиталистов по сегментированию рынка рабочей силы все вместе обеспечили подчинённое положение женщин в сфере производительного труда при капитализме. Она утверждает, что капитализм сформировался на базе патриархата, и что мужчины по доброй воле не откажутся от своих привилегий, связанных с половым разделением труда, а значит, для достижения равенства нужно бороться с самим гендерным различием.
@@ -305,7 +305,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 --
 
-=> /htdocs/book/Women%2C%20Race%2C%20Class.pdf 2. Анджела Дэвис: Женщины, раса, класс
+=> ipfs://bafybeigw25lnizgxemehzxu7hyhtaehpttydzax4too3fuif4wf6qqjyia/Women%2C%20Race%2C%20Class.pdf 2. Анджела Дэвис: Женщины, раса, класс
 Глава 1. Рабство и критерии новой женственности.
 Страницы 7–13.
 
@@ -315,7 +315,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 --
 
-=> /htdocs/book/The%20Coloniality%20of%20Gender.pdf 3. Maria Lugones: The Coloniality of Gender
+=> ipfs://bafybeiaxqxwg644ma2mciekeeqfxt5memdxlta3z2fnmw25xsxoll4i2re/The%20Coloniality%20of%20Gender.pdf 3. Maria Lugones: The Coloniality of Gender
 
 Описание: отталкиваясь от вопроса о том, почему небелые мужчины часто оказываются безразличны к проблемам небелых женщин, Лугонес пытается концептуализировать взаимоопределяющие отношения гендера, расы и сексуальности в европоцентристском колониальном капитализме. Теоретическим предшественником для нее становится теория колониальности власти Анибала Кихано, который понимает капиталистическую европоцентристскую власть как структурированную вдоль двух осей: колониальность власти и модерность.  Лугонес критикует понимание Кихано гендера как системы контроля за сексом и репродуктивностью, утверждая, что некритичное сведение гендера к половому диморфизму и биологии размножения само по себе является инструментом колониальности. Ссылаясь на исследования интерсекс-людей, а также «гендерных» систем у доколониальных народов, она показывает, что бинарное и биологизаторское понимание гендера играет конститутивную роль в колониальном капитализме. На основе этого она формулирует свою теорию модерно-колониальной гендерной системы, в которой традиционные идеалы мужественности и женственности присваиваются белым представителям среднего класса, а угнетённые народы приобретают животный статус по ту сторону нормативного гендера.
 
@@ -325,7 +325,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 --
 
-=> /htdocs/book/Imperial%20Leather.%20Race%2C%20Gender%2C%20and%20Sexuality%20in%20the%20Colonial%20Contest.pdf 4. Anne McClintock: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest
+=> ipfs://bafybeicpzjzmzwrpjcltsmr2ba4cyamlvhwv66jbkf5w5iplbjqwouomfy/Imperial%20Leather.%20Race%2C%20Gender%2C%20and%20Sexuality%20in%20the%20Colonial%20Contest.pdf 4. Anne McClintock: Imperial Leather. Race, Gender, and Sexuality in the Colonial Contest
 1. The Lay of the Land. Genealogies of Imperialism.
 Страницы 21–75.
 
@@ -341,7 +341,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 --
 
-=> /htdocs/book/Women%2C%20Race%2C%20Class.pdf 2. Анджела Дэвис: Женщины, раса, класс
+=> ipfs://bafybeigw25lnizgxemehzxu7hyhtaehpttydzax4too3fuif4wf6qqjyia/Women%2C%20Race%2C%20Class.pdf 2. Анджела Дэвис: Женщины, раса, класс
 Глава 11. Изнасилование, расизм и миф о черном насильнике.
 Страницы 58–65.
 
@@ -353,7 +353,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 ### Список литературы
 
-=> /htdocs/book/The%20Traffic%20in%20Women.pdf 1. Гейл Рубин: Обмен женщинами. Заметки о «политической экономии» пола
+=> ipfs://bafybeie5dqjus2faaupfr7caxppwf3txvywvq5ija6pltszyffny62cifa/The%20Traffic%20in%20Women.pdf 1. Гейл Рубин: Обмен женщинами. Заметки о «политической экономии» пола
 
 Описание: в этом эссе Рубин предлагает собственную теорию, объясняющую угнетённое положение женщин, которая основана на работах Маркса, Фрейда и Леви-Стросса. Она говорит о существовании в каждом обществе системы «пол/гендер», преобразующей «сырой материал» половой жизни в самые разнообразные социокультурные формы. Работая с богатым этнографическим материалом, Рубин выделяет основные характеристики социально преобразованной сексуальности: оппозициональность полов, принудительная гетеросексуальность, табу на инцест.  Для описания того, как структуры родства воспроизводятся на индивидуальном уровне, авторка обращается к психоанализу, который ясно показывает, что формирование женственности связано с подавлением и эротизацией страдания. Исходя из данных психоанализа и структурной антропологии, Рубин видит цель феминизма в переформатировании структур родства и избавлении от травматичных эффектов эдипова комплекса.
 
@@ -361,7 +361,7 @@ Zillah R. Eisenstein (ed.) Capitalist Patriarchy and the Case for Socialist Femi
 
 --
 
-=> /htdocs/book/Psychoanalysis%20and%20Feminism.pdf 2. Juliet Mitchell: Psychoanalysis and Feminism
+=> ipfs://bafybeihoedr3rlzyz42yciqivij4gqtdh4jypfebnxswdjv4njnsum7miq/Psychoanalysis%20and%20Feminism.pdf 2. Juliet Mitchell: Psychoanalysis and Feminism
 Conclusion: The Holy Family and Femininity.
 Страницы 370–381; 401–416.
 
@@ -373,7 +373,7 @@ Conclusion: The Holy Family and Femininity.
 
 --
 
-=> /htdocs/book/This%20Sex%20Which%20Is%20Not%20One.pdf 3. Luce Irigaray: This Sex Which Is Not One
+=> ipfs://bafybeidaki5tvkfy7me5qbm5ufhoxmh5otgxydpylnzppgvljdy32jaaq4/This%20Sex%20Which%20Is%20Not%20One.pdf 3. Luce Irigaray: This Sex Which Is Not One
 Women on the Market; Commodities among Themselves.
 Страницы 170–197.
 
@@ -383,7 +383,7 @@ Women on the Market; Commodities among Themselves.
 
 --
 
-=> /htdocs/book/Dora.pdf 4. Джейн Гэллоп: Ключи к Доре
+=> ipfs://bafybeiffgxj3ni4ash4gsbezvowrji4kin5rofgstbnz53gieluugsrfam/Dora.pdf 4. Джейн Гэллоп: Ключи к Доре
 
 Описание: В этом эссе Гэллоп рассуждает об известном клиническом тексте Фрейда, «случае Доры», 19-летней девушки с истерией. Авторка задаётся вопросом о позиции истерички: является ли она действительным воплощением женского бунта против патриархатного порядка, или её бунт неизбежно кооптируется и служит укреплению статуса кво? Углубляясь в детали фрейдовского текста, Гэллоп обнаруживает важность гувернантки как фигуры, внешней по отношению к семье (и происходящей из другого класса), и рассматривает сложные отношения Доры и Фрейда к ней. Фигура гувернантки оказывается ключом к решению проблемы аполитичности психоанализа, сводящего всё к семейной драме: оказывается, что с самого начала воображаемое пространство семьи оказывается разорвано внешними агентами символического, и поэтому следует строить теорию, равно учитывающую обе эти сферы.
 
@@ -393,19 +393,19 @@ Women on the Market; Commodities among Themselves.
 
 ### Дополнительно
 
-=> /htdocs/book/The%20Psychodynamic%20of%20the%20Family.pdf 1. Нэнси Чодороу: Психодинамика семьи
+=> ipfs://bafybeig2wp4psruncnowlb52nup6wgzp5hqmtxxgzbjls53xjdelgq5kru/The%20Psychodynamic%20of%20the%20Family.pdf 1. Нэнси Чодороу: Психодинамика семьи
 
 Описание: в этом тексте Чодороу обращает внимание на ассиметричное развитие гетеросексуальности у мальчиков и девочек в контексте нуклеарной семьи. Чодороу утверждает, что сложность развития женской сексуальности заключается в том, что девочка не просто переносит привязанность на отца, как считалось прежде, но «включает» его в её отношения с матерью, таким образом колеблясь между своей первичной привязанностью к матери и привязанностью к отцу. Это приводит к тому, что женщины вступают в отношения, в которых мужчины не являются для них единственными и исключительными объектами привязанности. Противоречия женской сексуальности, о которых пишет Чодороу, способствуют укреплению семьи (так как из-за них женщины ориентированы не исключительно на интимные отношения между супругами, но на отношения с детьми) — от чего и зависит воспроизведение материнской заботы и роли материнства именно женщинами.
 
 --
 
-=> /htdocs/book/Feminine%20Sexuality.pdf 2. Джулиет Митчелл: Женская сексуальность. Жак Лакан и école freudienne. Введение
+=> ipfs://bafybeibqw3y6vwonslz54hs2olxnhpcg4yzu7zdmnvbpdxdvkrgxkdraii/Feminine%20Sexuality.pdf 2. Джулиет Митчелл: Женская сексуальность. Жак Лакан и école freudienne. Введение
 
 Описание: во введении к хрестоматии текстов Лакана о женской сексуальности Митчелл рассматривает одно из ключевых напряжений между мейнстримной феминистской теорией и психоанализом, расположенное в вопросе о половом различии, и утверждает, что кастрационный комплекс Фрейда и символическая кастрация Лакана, которые понимают половое различие как результат психосексуальной истории субъекта, оказываются намного более полезными для феминистской теории, чем постулирование полового различия как изначально заданного — биологически или социально. Защищая психоанализ от упрёков в мизогинии и фаллоцентричности, она пишет, что психоанализ предлагает не нормативную модель женской психики, но наиболее глубокое описание того, как она конструируется при патриархате, и это описание критически важно для феминизма.
 
 --
 
-=> /htdocs/book/What%20Is%20Sex.pdf 3. Alenka Zupančič: What Is Sex?
+=> ipfs://bafybeifcc3ubsruvpdufwubeputpr3kkff2ppsau3cw22lnefwnhxtku3e/What%20Is%20Sex.pdf 3. Alenka Zupančič: What Is Sex?
 3. Contradictions that Matter. Sex or Gender?
 Страницы 35–44.
 
@@ -423,7 +423,7 @@ Women on the Market; Commodities among Themselves.
 
 ### Список литературы
 
-=> /htdocs/book/The%20Anti-Social%20Family.pdf 1. Michele Barret, Mary McIntosh: The Anti-social Family
+=> ipfs://bafybeigoucqn55cy2zycfpfixty22qpjkblr66a44cjrjxrzf4ktch2uia/The%20Anti-Social%20Family.pdf 1. Michele Barret, Mary McIntosh: The Anti-social Family
 II. The Anti-Social Family (подглавки 1–3, 5–7).
 Страницы 43–60, 67–82.
 
@@ -433,7 +433,7 @@ II. The Anti-Social Family (подглавки 1–3, 5–7).
 
 --
 
-=> /htdocs/book/To%20Abolish%20the%20Family.pdf 2. M. E. O’Brien: To Abolish the  Family
+=> ipfs://bafybeih5xpbmil7njgmyqx5mj46fv6qgmleeq3j3gnvre2rlhua27kgazq/To%20Abolish%20the%20Family.pdf 2. M. E. O’Brien: To Abolish the  Family
 
 Описание: М. Е. О’Брайен рассматривает исторический прогресс семейных отношений и доминантные формы семьи в разное время и при разном социальном строе (например, во времена Второго Интернационала, революции 1917 г. или действия законов Джима Кроу). Она очерчивает классические марксистские взгляды на семью и семейные отношения и рассматривает критику этих взглядов, предложенную социалистическими феминистками. О’Брайен предлагает проанализировать вклад движений, боровшихся против гендерного конформизма и устаревшей сексуальной политики — достижения радикального феминизма, освободительного движения геев и лесбиянок, а также движения чёрных женщин.  Авторка объясняет провалы, и освещает границы, которые не удалось пересечь прошлым радикальным движениям, а также предлагает пофантазировать о форме сожительства, которая последует за современной формой семьи.
 
@@ -441,7 +441,7 @@ II. The Anti-Social Family (подглавки 1–3, 5–7).
 
 --
 
-=> /htdocs/book/Frederick%20Engels%2C%20Social%20Reproduction%2C%20and%20the%20Problem%20of%20a%20Unitary%20Theory%20of%20Womens%20Oppression.pdf 3. Paul Blackledge: Frederick Engels, Social Reproduction, and the Problem of a Unitary Theory of Women’s Oppression
+=> ipfs://bafybeicpjtzei742ln455crqdxaoaokgbtc7mkp6yx6yzelmg2cqjqrrcq/Frederick%20Engels%2C%20Social%20Reproduction%2C%20and%20the%20Problem%20of%20a%20Unitary%20Theory%20of%20Womens%20Oppression.pdf 3. Paul Blackledge: Frederick Engels, Social Reproduction, and the Problem of a Unitary Theory of Women’s Oppression
 
 Описание: Блэкледж обращается к классической работе Фридриха Энгельса «Происхождение семьи, частной собственности и государства», оказавшей огромное влияние как на марксизм, так и на феминизм, и производит её переоценку в свете современной феминистской борьбы. Критикуя интерпретацию Энгельса как теоретика «двойных систем», он показывает актуальность и значимость историко-материалистического подхода Энгельса к угнетению женщины как к элементу тотальности общества, несмотря на устаревшие и неполные данные, которыми тот оперировал. Автор демонстрирует и наиболее слабые места теории Энгельса, в частности, его идеалистическое представление о рабочей семье и неспособность помыслить её как необходимый продукт логики капитализма. Обращаясь к опыту стран социалистического блока, автор корректирует позицию Энгельса, оставаясь, однако, верным его методу.
 
@@ -449,7 +449,7 @@ II. The Anti-Social Family (подглавки 1–3, 5–7).
 
 --
 
-=> /htdocs/book/The%20Dialectic%20of%20Sex.pdf 4. Shulamith Firestone: The Dialectic of Sex
+=> ipfs://bafybeiaozkonk52p3va3azx5eozfrbo7j3hhtfjvzvarxytfuflaw55wnq/The%20Dialectic%20of%20Sex.pdf 4. Shulamith Firestone: The Dialectic of Sex
 4. Down with Childhood.
 Страницы 91–104.
 
@@ -466,7 +466,7 @@ II. The Anti-Social Family (подглавки 1–3, 5–7).
 
 --
 
-=> /htdocs/book/Marxism%20and%20the%20Oppression%20of%20Women.pdf 2. Lise Vogel: Marxism and the Oppression of Women
+=> ipfs://bafybeifnvkxwheu4amz4rtr57rekfxnvr7v2cvl7hqdpb2iqw4gwgwn6bq/Marxism%20and%20the%20Oppression%20of%20Women.pdf 2. Lise Vogel: Marxism and the Oppression of Women
 2. Marx and Engels.
 Страницы 43–96.
 
@@ -478,7 +478,7 @@ II. The Anti-Social Family (подглавки 1–3, 5–7).
 
 ### Список литературы
 
-=> /htdocs/book/Transgressive%20Caregiving.pdf 1. Laura T. Kessler: Transgressive Caregiving
+=> ipfs://bafybeiakgqmky3z4lf5ks6dkjwxlya6mmogxllogfva3ds5tmzibw7ehra/Transgressive%20Caregiving.pdf 1. Laura T. Kessler: Transgressive Caregiving
 II. Transgressive Caregiving as Politics.
 Страницы 12–44.
 
@@ -488,7 +488,7 @@ II. Transgressive Caregiving as Politics.
 
 --
 
-=> /htdocs/book/Is%20Queer%20Parenting%20Possible.pdf 2. Shelley M. Park: Is Queer Parenting Possible?
+=> ipfs://bafybeiatjuv4qie6nxmlipch7gmradyehuj6a7c72mlqak3qqir4qd6e6u/Is%20Queer%20Parenting%20Possible.pdf 2. Shelley M. Park: Is Queer Parenting Possible?
 
 Описание: в этом автобиографическом эссе Парк размышляет о природе и возможность квир-родительства на примере своей собственной семьи: мультиэтничной и мультирелигиозной, транснациональной, включающей гетеро- и гомосексуальные партнёрства, кровное и приёмное родство и т. д. Она указывает, что однополые родители и их дети — это вовсе не обязательно квир-родительство, и демонстрирует проблематичность концепта квир-родительства, поскольку, по мнению ряда авторов, родительство само по себе слишком нормативно для нестабильности квира. Тем не менее, она анализирует, как её семья отклоняется от норм репросексуальности и буржуазной семьи в организации своего родства, пространства и времени, и утверждает, что квир-родительство возможно — однако оно нуждается в широких экономических и социальных изменениях.
 
@@ -496,7 +496,7 @@ II. Transgressive Caregiving as Politics.
 
 --
 
-=> /htdocs/book/Kinderkommunismus.pdf 3. K. D. Griffiths & J. J. Gleeson: Kinderkommunismus
+=> ipfs://bafybeiegcuf7xretfxr7l2civ4vl4535qqth7phewpnooqsgpfyhir7vxq/Kinderkommunismus.pdf 3. K. D. Griffiths & J. J. Gleeson: Kinderkommunismus
 
 Описание: в этом тексте Гриффит и Глисон предпринимают анализ места семьи в современном капитализме, противопоставляя его как представлениям либералов и консерваторов, так и представлениям большинства современных левых. В первой половине текста они рассматривают трансформации, произошедшие с семьёй в неолиберальной современности, стабилизирующую и консервативную роль, которую она выполняет, краткую историю гей- и квир-критики семьи и конкретное место семьи в социальном воспроизводстве капитализма. Вторая часть представляет спекулятивный проект системы обобществлённого воспитания и образования, которая должна заменить семью в коммунистическом обществе, положить конец связанным с ней проблемам и разрушить строгую бинарность гендера, отделив деторождение от воспитания.
 
@@ -504,7 +504,7 @@ II. Transgressive Caregiving as Politics.
 
 --
 
-=> /htdocs/book/Full%20Surrogacy%20Now.%20Feminism%20Against%20Family.pdf 4. Sophie A. Lewis: Full Surrogacy Now
+=> ipfs://bafybeigz65lhm2gmeaa5oa3hqm3f2fhpfmrwhihdogdsv4gymdbwn2tt3y/Full%20Surrogacy%20Now.%20Feminism%20Against%20Family.pdf 4. Sophie A. Lewis: Full Surrogacy Now
 6. Another Surrogacy Is Possible.
 Страницы 137–154.
 
@@ -514,20 +514,20 @@ II. Transgressive Caregiving as Politics.
 
 ### Дополнительно
 
-=> /htdocs/book/Revolution%20at%20Point%20Zero.%20Housework%2C%20Reproduction%2C%20and%20Feminist%20Struggle.pdf 1. Sylvia Federici: Feminism and the Politics of the Common in an Era of Primitive Accumulation
+=> ipfs://bafybeiecqdojlg2khbf3ckkdoudugnxjz7oe7oz4lby7ixlz2i76g3reqm/Revolution%20at%20Point%20Zero.%20Housework%2C%20Reproduction%2C%20and%20Feminist%20Struggle.pdf 1. Sylvia Federici: Feminism and the Politics of the Common in an Era of Primitive Accumulation
  Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle. Страницы 163–174.
 
 Описание:
 
 --
 
-=> /htdocs/book/The%20Family%20and%20the%20Communes%20in%20Peoples%20Republic%20of%20China.pdf 2. Lucy Jen Huang: The Family and the Communes in People’s Republic of China: Retrospect and Prospect
+=> ipfs://bafybeihal2hb3fk6w4xdi44l5xwwfccielb7afjqga3d4hz7pc6f4rnnda/The%20Family%20and%20the%20Communes%20in%20Peoples%20Republic%20of%20China.pdf 2. Lucy Jen Huang: The Family and the Communes in People’s Republic of China: Retrospect and Prospect
 
 Описание:
 
 --
 
-=> /htdocs/book/The%20Dialectic%20of%20Sex.pdf 3. Shulamith Firestone: The Dialectic of Sex
+=> ipfs://bafybeiaozkonk52p3va3azx5eozfrbo7j3hhtfjvzvarxytfuflaw55wnq/The%20Dialectic%20of%20Sex.pdf 3. Shulamith Firestone: The Dialectic of Sex
 Conclusion: The Ultimate Revolution.
 Страницы 205–242.
 
@@ -535,7 +535,7 @@ Conclusion: The Ultimate Revolution.
 
 --
 
-=> /htdocs/book/Utopian%20Literature%20and%20Bioethics.pdf 4. Evie Kendal: Utopian Literature and Bioethics: Exploring Reproductive Difference and Gender Equality
+=> ipfs://bafybeifrfntuinhgeuuldtxkhiudhflimel36unohbwsinyzxkwz6ny6g4/Utopian%20Literature%20and%20Bioethics.pdf 4. Evie Kendal: Utopian Literature and Bioethics: Exploring Reproductive Difference and Gender Equality
 
 Описание: в этом эссе Кендал рассматривает, как феминистская утопическая литература может помогать осмыслить биологические различия полов и социальные, биологические и технологические способы их преодолеть или компенсировать. Она показывает, что эта литература выполняет философскую функцию, ставя спекулятивные вопросы и предлагая ответы на них, и таким образом меняя наше представление о деторождении, семье и поле. Кроме того, авторка предлагает использовать феминистскую утопическую литературу в современных дебатах о биоэтике, чтобы, опираясь на неё, стремиться к более этичному и справедливому разрешению проблем, связанных с репродукцией.
 
@@ -545,7 +545,7 @@ Conclusion: The Ultimate Revolution.
 
 ### Список литературы
 
-=> /htdocs/book/Sexual%20and%20Reproductive%20Rights.pdf 1. Криста Вихтерих: Сексуальные и репродуктивные права
+=> ipfs://bafybeiaygdrj2w5d4kpirtv6bawzwnabaxit2pn6ng4v4vl4rx5xtfgile/Sexual%20and%20Reproductive%20Rights.pdf 1. Криста Вихтерих: Сексуальные и репродуктивные права
 Разделы 3–5.
 Страницы 23–36.
 
@@ -555,7 +555,7 @@ Conclusion: The Ultimate Revolution.
 
 --
 
-=> /htdocs/book/Our%20Bodies%2C%20Our%20Crimes.pdf 2. Jeanne Flavin: Our Bodies, Our Crimes. Breeders: The Right to Procreate
+=> ipfs://bafybeidmhc5ua7culutbipjbxjk7pqzstqc64dheqptzeh3ouqhxpgymgm/Our%20Bodies%2C%20Our%20Crimes.pdf 2. Jeanne Flavin: Our Bodies, Our Crimes. Breeders: The Right to Procreate
 Страницы 29–51.
 
 Описание: в этой главе Флавин анализирует историю и современность вмешательств американского государства и суда в право женщин на деторождение.  Она показывает, как на рубеже XIX–XX вв. категория «слабоумия» начала использоваться для оправдания государственной политики по стерилизации женщин из низших классов и расовых меньшинств, призванной «оздоровить» общество и защитить его от вырождения и нищеты. Хотя движение против принудительной стерилизации в 1970-х добилось введения моратория на эту практику, суды до сих пор нередко прямо или косвенно принуждают женщин к стерилизации. Авторка приводит три основных рационализации, к которым прибегают судьи в таких ситуациях: воспитание ответственности, экономические соображения и забота о детях. Опираясь на понятие фундаментальных прав, авторка показывает несостоятельность и несправедливость этих аргументов, и защищает неотчуждаемое право каждого человека на репродукцию.
@@ -564,7 +564,7 @@ Conclusion: The Ultimate Revolution.
 
 --
 
-=> /htdocs/book/Beyond%20Pro-Choice%20Versus%20Pro-Life.pdf 3. Andrea Smith: Beyond Pro-Choice Versus Pro-Life
+=> ipfs://bafybeiho7mavhig5cokbufa6qhv25san2vlnsam3llrs6rdky63mj5472e/Beyond%20Pro-Choice%20Versus%20Pro-Life.pdf 3. Andrea Smith: Beyond Pro-Choice Versus Pro-Life
 
 Описание: в этой статье Смит утверждает, что парадигма «пролайф vs прочойс», используемая в качестве модели для осмысления репродуктивных прав, маргинализирует небелых и бедных женщин, женщин с инвалидностью и представительниц других маргинализированных групп. Согласно авторке, эта парадигма одновременно закрепляет и маскирует структуры капитализма и превосходства белых, которые определяют, какие репродуктивные решения женщины принимают. Хотя оба лагеря в этой парадигме на словах заботятся о проблемах небелых женщин, то, как они определяют предмет дискуссии, в конечном итоге приводит их к, в сущности, расистским и сексистским позициям и к отсутствию какой-либо поддержки жизней и реальных выборов небелых женщин. В противоположность этому небелым активисткам следует заниматься разработкой альтернативных парадигм репродуктивной справедливости, которые бы фокусировались на критике капитализма и криминализации, а не просто развивали программы пролайф- или прочойс-движения.
 
@@ -572,7 +572,7 @@ Conclusion: The Ultimate Revolution.
 
 --
 
-=> /htdocs/book/Eugenic%20Feminism.pdf 4. Asha Nadkarni: Eugenic Feminism: Reproductive Nationalism in the United States and India. Transnational Surrogacy and the Neoliberal Mother India
+=> ipfs://bafybeid6hxbidxvmzn2ehkmfg7naln2ckv4n6l5ug2iofpkywhdwzlibfq/Eugenic%20Feminism.pdf 4. Asha Nadkarni: Eugenic Feminism: Reproductive Nationalism in the United States and India. Transnational Surrogacy and the Neoliberal Mother India
 
 Описание:  в заключении своей книги Аша Надкарни рассматривает документальный фильм Google Baby о коммерческом репродуктивном труде, и освещает проблематичность современных технологий, которые перемещают проблемы репродукции в сферу влияния рынка и рыночных отношений. Она исследует то, как для некоторых исследовательниц феномен суррогатного материнства приобрел феминистский окрас — оно, согласно словам владелицы крупнейшей клиники суррогатного материнства в Индии, позволяет женщинам трансформировать свою жизнь. Надкарни оспаривает это утверждение, замечая, что суррогатное материнство — это не просто не феминистский феномен, но новая форма евгеники (новая, потому что её характеристика больше не железная рука государства, но индивидуализм и личный выбор). Язык эмпауэрмента, что используют те, кому выгодно суррогатное материнство, скрывает причины, по которым женщины третьего мира оказались в сложном социо-экономическом положении в первую очередь. Более того, риски, связанные с репродуктивным трудом, скрываются или преуменьшаются.
 
@@ -580,7 +580,7 @@ Conclusion: The Ultimate Revolution.
 
 ### Дополнительно
 
-=> /htdocs/book/Women%20of%20Color%20and%20the%20Reproductive%20Rights%20Movement.pdf 1. Jennifer Nelson: Women of Color and the Reproductive Rights Movement
+=> ipfs://bafybeiabvpktcdvf255alftswdory4mr4hglckq4e6uh5r7bphnh36wb3m/Women%20of%20Color%20and%20the%20Reproductive%20Rights%20Movement.pdf 1. Jennifer Nelson: Women of Color and the Reproductive Rights Movement
 “An act of valor for a woman need not take place inside of her”: Black Women, Feminism, and Reproductive Rights.
 Страницы 55–83.
 
@@ -626,7 +626,7 @@ Conclusion: The Ultimate Revolution.
 
 --
 
-=> /htdocs/book/Rape%2C%20Sexual%20Inequality%2C%20and%20Levels%20of%20Violence.pdf 3. Julia Schwendinger & Herman Schwendinger: Rape, Sexual Inequality, and Levels of Violence
+=> ipfs://bafybeid3ht2ml3vmoeoa5q7vrsendmj4qgepc4jx2ozc4rtufp7i3fdiwy/Rape%2C%20Sexual%20Inequality%2C%20and%20Levels%20of%20Violence.pdf 3. Julia Schwendinger & Herman Schwendinger: Rape, Sexual Inequality, and Levels of Violence
 Chapters II, III, IV, Conclusion.
 Страницы 366–404.
 
@@ -645,20 +645,20 @@ Chapters II, III, IV, Conclusion.
 
 ### Дополнительно
 
-=> /htdocs/book/Statement%20on%20Gender%20Violence%20And%20the%20Prison-Industrial%20Complex.pdf 1. Incite! and Critical Resistance: Statement on Gender Violence And the Prison-Industrial Complex
+=> ipfs://bafybeifrzyx75bjysr3k6cujc33dcacluumjujq6v4kpook3kahcdyv4fy/Statement%20on%20Gender%20Violence%20And%20the%20Prison-Industrial%20Complex.pdf 1. Incite! and Critical Resistance: Statement on Gender Violence And the Prison-Industrial Complex
 
 Описание:
 
 --
 
-=> /htdocs/book/Gendered%20Violence.pdf 2. Тереза де Лауретис: Риторика насилия. Ген(д)ерированное насилие
+=> ipfs://bafybeibttx3pk7vbfsr5dl6cej7p2kwas53s3zo7xu3wvmzvlvis3vdt3u/Gendered%20Violence.pdf 2. Тереза де Лауретис: Риторика насилия. Ген(д)ерированное насилие
 Страницы 351–358.
 
 Описание:
 
 --
 
-=> /htdocs/book/Misogynous%20Economies.%20Chapter%202.pdf 3. Laura Mandell: Misogynous Economies. 2. Capitalism and Rape
+=> ipfs://bafybeiefeugevt7kqhpashqi6hom2njtxpnnufh6aqtfjau7ybjmbsevxu/Misogynous%20Economies.%20Chapter%202.pdf 3. Laura Mandell: Misogynous Economies. 2. Capitalism and Rape
 
 Описание:
 
@@ -668,7 +668,7 @@ Chapters II, III, IV, Conclusion.
 
 ### Список литературы
 
-=> /htdocs/book/The%20Great%20Caliban.pdf 1. Сильвия Федеричи: Великий Калибан. Борьба против мятежного тела
+=> ipfs://bafybeidyldef6dtwnn7hsfmkt67dp3frbdug2hemvizfhsbsfigggm5sgi/The%20Great%20Caliban.pdf 1. Сильвия Федеричи: Великий Калибан. Борьба против мятежного тела
 
 Описание: в этой главе Сильвия Федеричи рассуждает о том, как в ходе истории менялось наше отношение к телу. Она ассоциирует понимание тела как местности, на которой происходит борьба добрых и злых сил (тела и разума), с процессом социального реформирования, с помощью которого буржуазия пыталась дисциплинировать рабочий класс. Федеричи утверждает, что дисциплинированный рабочий, «гордый иметь надсмотрщика» — это не естественный тип рабочего, но результат карательных мер, используемых буржуазией, и её попыток радикально изменить личность человека. Она также отслеживает истоки взгляда на тело как на машину или на фабрику, отмечая, что в механистическом понимании тела можно увидеть буржуазный дух, стремящийся подчинить тела и сделать их полезными.  Федеричи утверждает, что за такой переменой в символическом обозначении тел стоит государственная кампания, уничтожающая анимистическое понимание природы, в котором нет места разделению материального и духовного. Магические верования и практики, свойственные такой концепции природы, также безжалостно искоренялись буржуазией.
 
@@ -676,7 +676,7 @@ Chapters II, III, IV, Conclusion.
 
 --
 
-=> /htdocs/book/Capitalism%20and%20Disability.pdf 2. Martha Rusell: Capitalism & Disability
+=> ipfs://bafybeif7f6jpyxi7hxrkh2cjyyd537oln2lb3mokqnz4ws4urvn2ta23lq/Capitalism%20and%20Disability.pdf 2. Martha Rusell: Capitalism & Disability
 Section I. The Political Economy of Disability. Chapters 1–3.
 Страницы 26–53.
 
@@ -702,7 +702,7 @@ Section I. The Political Economy of Disability. Chapters 1–3.
 
 ### Дополнительно
 
-=> /htdocs/book/Nomadic%20Subjects.pdf 1. Rosi Braidotti: Nomadic Subjects
+=> ipfs://bafybeib7rgh6wj472rbgsir2fnpxov2dgegjmba467lhm5o2bkgoipwec4/Nomadic%20Subjects.pdf 1. Rosi Braidotti: Nomadic Subjects
 Chapter 2: Body Images and the Pornography of Representation.
 Страницы 57–74.
 
@@ -710,7 +710,7 @@ Chapter 2: Body Images and the Pornography of Representation.
 
 --
 
-=> /htdocs/book/Xenofeminism.pdf 2. Helen Hester: Xenofeminism
+=> ipfs://bafybeibmsaenns256hj4fhiyzr2t4tg3qzouucwnepdi5k7gpmyh44kcam/Xenofeminism.pdf 2. Helen Hester: Xenofeminism
 3. Xenofeminist Technologies. Страницы 70–138.
 
 Описание: в этой главе, продолжая развивать свою версию ксенофеминистского проекта, Хестер анализирует эмансипирующий потенциал технологий на примере Del-Em, простого в применении приспособления для регулирования менструации, которое феминистки 1970-х использовали для совершения нелегальных абортов.  Авторка рассматривает возникновение и историю этой феминистской аппроприации технологий, а также несколько других примеров (гинекологическое зеркало, нелегальное приобретение гормональной терапии трансгендерными людьми) и размышляет о связи технологий, сообщества и освобождения.
@@ -733,13 +733,13 @@ Chapter 2: Body Images and the Pornography of Representation.
 
 --
 
-=> /htdocs/book/New%20Heroines%20of%20Labour.pdf 2. Suvi Salmenniemi, Maria Adamson: New Heroines of Labour: Domesticating Post-feminism and Neoliberal Capitalism in Russia
+=> ipfs://bafybeicgellmlmnarviyznzpca6xjxallbjgbnobb7b27tfv6pw53miy5u/New%20Heroines%20of%20Labour.pdf 2. Suvi Salmenniemi, Maria Adamson: New Heroines of Labour: Domesticating Post-feminism and Neoliberal Capitalism in Russia
 
 Описание: в этой статье на материале женской литературы селф-хелп анализируются особенности постфеминизма в России. Авторки показывают, что постфеминистская субъектность состоит из противоречивых императивов, требующих как автономии, так и реализации через любовь и самопожертвование в отношениях с мужчинами. Авторки показывают, как в условиях неолиберализации женщины вынуждены прибегать к трём видам труда (труд личности, труд женственности и труд сексуальности), чтобы добиться успеха — в этой концентрации на добродетели труда они усматривают искажённое и отрицаемое, однако длящееся наследие советской идеологии.
 
 --
 
-=> /htdocs/book/Dangerous%20Brown%20Men.pdf 3. Gargi Bhattacharyya: Dangerous Brown Men
+=> ipfs://bafybeiedgyaeevuqkgngpfs4cblfrsf3q3qomy3woaa54gxp4ptk2mxyiy/Dangerous%20Brown%20Men 3. Gargi Bhattacharyya: Dangerous Brown Men
 Chapter 1. The Misuse of Feminism in Foreign Policy.
 
 Описание:
@@ -752,14 +752,14 @@ Chapter 1. The Misuse of Feminism in Foreign Policy.
 
 ### Дополнительно
 
-=> /htdocs/book/Theorizing%20NGOs.pdf 1. Victoria Bernal, Inderpal Grewal: Theorizing NGOs: States, Feminisms and Neoliberalism
+=> ipfs://bafybeibjdqxcftaw22xzlnzzrioqqdckkfoif7udu6rhcwunjm3etyjiwa/Theorizing%20NGOs.pdf 1. Victoria Bernal, Inderpal Grewal: Theorizing NGOs: States, Feminisms and Neoliberalism
 Feminisms and the NGO Form. Страницы 301–310.
 
 Описание:
 
 --
 
-=> /htdocs/book/Feminism%2C%20Capitalism%20and%20the%20Cunning%20of%20History.pdf 2. Nancy Fraser: Feminism, Capitalism and the Cunning of History
+=> ipfs://bafybeidg7szs2tlrdz7zuqqku2jbnsjs7oqhsa4m4kpmydktttprzuj2gq/Feminism%2C%20Capitalism%20and%20the%20Cunning%20of%20History.pdf 2. Nancy Fraser: Feminism, Capitalism and the Cunning of History
 Краткий конспект этой статьи на русском языке можно найти здесь:
 => https://twitter.com/book_explained/status/1258736267950526465
 
@@ -767,6 +767,6 @@ Feminisms and the NGO Form. Страницы 301–310.
 
 --
 
-=> /htdocs/book/Going%20Rogue.pdf 3. Marjorie Jolles: Going Rogue: Postfeminism and the Privilege of Breaking Rules
+=> ipfs://bafybeibsdye6sy3b5mlwfujnvxklte5kywdbvw6jyvpktm2qbt7wdpdhsu/Going%20Rogue.pdf 3. Marjorie Jolles: Going Rogue: Postfeminism and the Privilege of Breaking Rules
 
 Описание:

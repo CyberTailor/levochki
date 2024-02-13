@@ -102,7 +102,8 @@ https://ipfs.io/ipfs/bafybeib4rt2mykgohgs2idepbez3eamcuadcb2puo5zmuo56y4b45tz56u
    Бебель / Клара Цеткин / Александра Коллонтай
 
 3. _Lise Vogel:_ [*Marxism and the Oppression of Women*](
-/book/Marxism%20and%20the%20Oppression%20of%20Women.pdf). Страницы 13–43.
+https://ipfs.io/ipfs/bafybeifnvkxwheu4amz4rtr57rekfxnvr7v2cvl7hqdpb2iqw4gwgwn6bq?filename=Marxism%20and%20the%20Oppression%20of%20Women.pdf).
+Страницы 13–43.
 
    **Описание:** вторая и третья главы этой книги помогут нам лучше понять
    процесс развития теории социалистического феминизма, предложат к рассмотрению
@@ -209,7 +210,8 @@ https://ipfs.io/ipfs/bafybeie7iyaascea74jwe2amwajlc75ox4ogbzywqfznog7tdpnjzk3kge
 
 3. _Чинция Арруцца:_ Квир-союз между марксизмом и феминизмом? // Хартманн Х.
 [**Несчастливый брак марксизма с феминизмом**](
-/book/The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf). Страницы 60–74.
+https://ipfs.io/ipfs/bafybeif7f2npvmi4nni475dschj7rnrj6ssaa7efkt3q4f76pvfwfrkbgu?filename=The%20Unhappy%20Marriage%20of%20Marxism%20and%20Feminism.pdf).
+Страницы 60–74.
 
    **Описание:** последняя глава книги Чинции Арруццы о связях марксизма и
    феминизма посвящена анализу теории двойных систем Хартманн, последовавшей
@@ -792,7 +794,8 @@ https://syg.ma/@danil-danila/giendier-eto-kolonialistskoie-izobrietieniie-intier
    изымаются из модерности и категории человека. Этот принцип приводит нас к
    мысли Марии Лугонес, предложившей понятие колониальности гендера.
 
-2. _Анджела Дэвис:_ [**Женщины, раса, класс**](/book/Women%2C%20Race%2C%20Class.pdf).
+2. _Анджела Дэвис:_ [**Женщины, раса, класс**](
+https://ipfs.io/ipfs/bafybeigw25lnizgxemehzxu7hyhtaehpttydzax4too3fuif4wf6qqjyia?filename=Women%2C%20Race%2C%20Class.pdf).
 Глава 11. Изнасилование, расизм и миф о черном насильнике. Страницы 58–65.
 
    **Описание:** эта глава книги Дэвис посвящена исследованию изнасилования как
@@ -845,8 +848,8 @@ https://ipfs.io/ipfs/bafybeie5dqjus2faaupfr7caxppwf3txvywvq5ija6pltszyffny62cifa
    Леви-Стросса? Что такое политическая экономия пола?
 
 2. _Juliet Mitchell:_ [*Psychoanalysis and Feminism*](
-/book/Psychoanalysis%20and%20Feminism.pdf). Conclusion: The Holy Family and
-Femininity. Страницы 370–381; 401–416.
+https://ipfs.io/ipfs/bafybeihoedr3rlzyz42yciqivij4gqtdh4jypfebnxswdjv4njnsum7miq?filename=Psychoanalysis%20and%20Feminism.pdf).
+Conclusion: The Holy Family and Femininity. Страницы 370–381; 401–416.
 
    **Описание:** в заключительной части своего труда о феминизме и психоанализе
    Митчелл излагает собственное видение природы патриархата. Опираясь на
@@ -1093,7 +1096,8 @@ https://ipfs.io/ipfs/bafybeicpjtzei742ln455crqdxaoaokgbtc7mkp6yx6yzelmg2cqjqrrcq
    нуклеарную семью? Какая интерпретация положения женщин в социалистических
    странах позволяет сохранить унитарную теорию женского угнетения?
 
-4. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The%20Dialectic%20of%20Sex.pdf).
+4. _Shulamith Firestone:_ [*The Dialectic of Sex*](
+https://ipfs.io/ipfs/bafybeiaozkonk52p3va3azx5eozfrbo7j3hhtfjvzvarxytfuflaw55wnq?filename=The%20Dialectic%20of%20Sex.pdf).
 4\. Down with Childhood. Страницы 91–104.
 
    **Описание:** во второй части главы, посвящённой детям, Файерстоун описывает
@@ -1292,7 +1296,8 @@ https://ipfs.io/ipfs/bafybeihal2hb3fk6w4xdi44l5xwwfccielb7afjqga3d4hz7pc6f4rnnda
 
    **Описание:**
 
-3. _Shulamith Firestone:_ [*The Dialectic of Sex*](/book/The%20Dialectic%20of%20Sex.pdf).
+3. _Shulamith Firestone:_ [*The Dialectic of Sex*](
+https://ipfs.io/ipfs/bafybeiaozkonk52p3va3azx5eozfrbo7j3hhtfjvzvarxytfuflaw55wnq?filename=The%20Dialectic%20of%20Sex.pdf).
 Conclusion: The Ultimate Revolution. Страницы 205–242.
 
    **Описание:** в последней главе Файерстоун формулирует проект общества после
