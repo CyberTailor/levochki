@@ -16,7 +16,14 @@ lang: ru
 выделены [*курсивом*](#).
 
 Если вы желаете добавить отсутствующее описание к ресурсу или что-то исправить,
-[внесите свой вклад](https://git.sysrq.in/levochki/about/).
+[внесите свой вклад](https://git.sysrq.in/texts/levochki/about/).
+
+Ещё можно помочь, продублировав у себя литературу:
+
+```bash
+$ ipfs files cp --parents /ipfs/QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn /levochki/books/2020
+$ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
+```
 
 * * *
 

@@ -3,7 +3,13 @@
 Собственно, это та литература, по которой проходили встречи ☺
 
 Если вы желаете добавить отсутствующее описание к ресурсу или что-то исправить, внесите свой вклад:
-=> gemini://git.sysrq.in/levochki/
+=> gemini://git.sysrq.in/texts/levochki/
+
+Ещё можно помочь, продублировав у себя литературу:
+```Shell commands
+$ ipfs files cp --parents /ipfs/QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn /levochki/books/2020
+$ ipfs pin add QmahqfF8ddhvVndDdhP93FQRbQqDrELXZpLD36x4LJNoHn
+```
 
 ## 1. Введение в левый феминизм
 

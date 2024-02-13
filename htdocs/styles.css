@@ -1,27 +1,77 @@
-@media (prefers-color-scheme: dark){
-  body {color:#fff;background:#000}
-  a:link {color:#9cf}
-  a:hover, a:visited:hover {color:#cef}
-  a:visited {color:#c9f}
-}
-body{
-  margin:1em auto;
-  max-width:40em;
-  padding:0 .62em;
-  font:1.2em/1.62 sans-serif;
+html {
+	font:1.2em/1.62 sans-serif;
+	word-break:normal
 }
 h1,h2,h3 {
-  line-height:1.2;
+	line-height:1.2;
 }
 h4 {
-  line-height:0
+	line-height:0
 }
 footer {
-  text-align: center;
-  font-family: monospace
+	text-align: center;
+	font-family: monospace
+}
+@media screen {
+	body{
+		margin:1em auto;
+		max-width:40em;
+		padding:0 .62em;
+	}
+	pre {
+		overflow-x:auto
+	}
+}
+@media screen and (prefers-color-scheme: dark){
+	body {
+		color:#fff;
+		background:#000
+	}
+	a:link {
+		color:#9cf
+	}
+	a:hover,
+	a:visited:hover {
+		color:#cef
+	}
+	a:visited {
+		color:#c9f
+	}
+}
+@media screen and (-ms-high-contrast: active) {
+	a:focus {
+		outline:3px solid
+	}
+}
+@media screen and (-ms-high-contrast: black-on-white) {
+	body {
+		color:black;
+		background-color:white
+	}
+	a:link {
+		color:blue
+	}
+	a:visited {
+		color:purple
+	}
+}
+@media screen and (-ms-high-contrast: white-on-black) {
+	body {
+		color:white;
+		background-color:black
+	}
+	a:link {
+		color:yellow
+	}
+	a:active {
+		color:orange
+	}
+	a:visited {
+		color:pink
+	}
 }
 @media print{
-  body{
-    max-width:none
-  }
+	body{
+		max-width:none
+	}
 }
